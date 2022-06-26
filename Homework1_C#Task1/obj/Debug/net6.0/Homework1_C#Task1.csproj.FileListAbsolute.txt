@@ -1,0 +1,15 @@
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\bin\Debug\net6.0\Homework1_C#Task1.exe
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\bin\Debug\net6.0\Homework1_C#Task1.deps.json
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\bin\Debug\net6.0\Homework1_C#Task1.runtimeconfig.json
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\bin\Debug\net6.0\Homework1_C#Task1.dll
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\bin\Debug\net6.0\Homework1_C#Task1.pdb
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\obj\Debug\net6.0\Homework1_C#Task1.csproj.AssemblyReference.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\obj\Debug\net6.0\Homework1_C#Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\obj\Debug\net6.0\Homework1_C#Task1.AssemblyInfoInputs.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\obj\Debug\net6.0\Homework1_C#Task1.AssemblyInfo.cs
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\obj\Debug\net6.0\Homework1_C#Task1.csproj.CoreCompileInputs.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\obj\Debug\net6.0\Homework1_C#Task1.dll
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\obj\Debug\net6.0\refint\Homework1_C#Task1.dll
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\obj\Debug\net6.0\Homework1_C#Task1.pdb
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\obj\Debug\net6.0\Homework1_C#Task1.genruntimeconfig.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework1_C#Task1\obj\Debug\net6.0\ref\Homework1_C#Task1.dll
