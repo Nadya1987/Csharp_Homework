@@ -1,0 +1,15 @@
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\bin\Debug\net6.0\Homework2.exe
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\bin\Debug\net6.0\Homework2.deps.json
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\bin\Debug\net6.0\Homework2.runtimeconfig.json
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\bin\Debug\net6.0\Homework2.dll
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\bin\Debug\net6.0\Homework2.pdb
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\obj\Debug\net6.0\Homework2.csproj.AssemblyReference.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\obj\Debug\net6.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfoInputs.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfo.cs
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\obj\Debug\net6.0\Homework2.csproj.CoreCompileInputs.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\obj\Debug\net6.0\Homework2.dll
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\obj\Debug\net6.0\refint\Homework2.dll
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\obj\Debug\net6.0\Homework2.pdb
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\obj\Debug\net6.0\Homework2.genruntimeconfig.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\Homework\Homework2\obj\Debug\net6.0\ref\Homework2.dll
