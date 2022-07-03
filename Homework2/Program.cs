@@ -15,32 +15,25 @@ int number = Convert.ToInt32(Console.ReadLine());
 int second = SecondNumber(number);
 Console.WriteLine(second);*/
 
-//Task2
+//Task2    
 
-void ThirdNum(int num)
+/*void ThirdNum(int num)
 {
     int ed = num % 10;
     
-    if(num > 100 && ed >= 0)
-    {
-        Console.Write("Третья цифра: " + ed);
-    }
-        if(num < 100) 
-    {
-        Console.Write ("Третьей цифры нет. ");
-    }
-
+    if(num > 100 && ed >= 0) Console.WriteLine("Третья цифра: " + ed);
+    if(num < 100) Console.WriteLine("Третьей цифры нет. ");
 }
 
 Console.Write("Введите любое число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-ThirdNum(num);
+ThirdNum(num);*/
 
 
 //Task3
 
-/*
+
 void ShowOutput (int day)
 {
     if(day >= 1 && day <= 5) Console.WriteLine("К сожалению, это не выходной...");
@@ -51,4 +44,4 @@ void ShowOutput (int day)
 Console.Write("Введите день недели: ");
 int day = Convert.ToInt32(Console.ReadLine());
 
-ShowOutput (day);*/
+ShowOutput (day);
