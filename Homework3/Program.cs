@@ -1,6 +1,6 @@
 ﻿
 // Task 1
-/*void Palindrom (int number)
+void Palindrom (int number)
 {
     int dectys = number / 10000;
     int tys = number / 1000;
@@ -13,11 +13,11 @@
 Console.Write("Введите пятизначное число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-Palindrom(num);*/
+Palindrom(num);
 
 //Task2
 
-void Cube(int num) 
+/*void Cube(int num) 
 { 
      int current = 1; 
      while (current <= num) 
@@ -30,5 +30,4 @@ void Cube(int num)
 
 Console.WriteLine("Введите число: "); 
 int number = Convert.ToInt32(Console.ReadLine()); 
-Cube(number); 
-
+Cube(number);*/
