@@ -1,22 +1,23 @@
-﻿//Напишите программу, которая принимает на вход число и выдаёт 
+﻿//Задача1. Напишите программу, которая принимает на вход число и выдаёт 
 //сумму цифр в числе.
-/*
-int[] Sum(int size)
-  {
-    int sum = 0;
+
+int[] FindSum(int size)
+{
     int[] newArray = new int[size];
-    
+
+    int sum = 0;
+
     for(int i = 0; i < size; i++)
-    {
-        sum = sum + newArray[i];
-    }
-    return newArray;
-  }
+        sum += i;
+        
+    return newArray; 
+
+}
 
 Console.Write("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine("Сумма цифр в числе: " + Sum);*/
+int num = Convert.ToInt32(Console.ReadLine());
+int[] array = FindSum(array);
+ShowArray(array);
 
 //Напишите программу, которая задаёт массив из m элементов и выводит их на экран.
 
