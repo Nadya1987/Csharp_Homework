@@ -1,34 +1,56 @@
 ﻿//Задача1. Напишите программу, которая принимает на вход число и выдаёт 
-//сумму цифр в числе.
+//сумму цифр в числе. 
+//452 -> 11
+//82 -> 10
+//9012 -> 12
+/*
+  int Sum(int num)
+  {
+    int sot = 0;
+    int result = 0;
 
-int[] FindSum(int size)
-{
-    int[] newArray = new int[size];
-
-    int sum = 0;
-
-    for(int i = 0; i < size; i++)
-        sum += i;
-        
-    return newArray; 
-
-}
+    for (int i = 0; i < num; i++)
+    {
+      sot = num - num % 10;
+      result = result + (num - sot);
+      num = num / 10;
+    }
+   return result;
+  }
 
 Console.Write("Введите число: ");
 int num = Convert.ToInt32(Console.ReadLine());
-int[] array = FindSum(array);
-ShowArray(array);
+int sum = Sum(num);
+Console.WriteLine("Сумма цифр в числе: " + sum);*/
+
+
 
 //Напишите программу, которая задаёт массив из m элементов и выводит их на экран.
 
-int[] Massiv(int size)
+int[] CreateArray(int size)
 {
-  int[]newArray = new int[size];
-  
-  return newArray;
+    int[] newArray = new int [size];
+
+    Console.WriteLine("Введите элементы массива': ");
+    for(int i = 0; i< size; i++)
+    {
+        Console.Write($"Введите {i + 1} элемент: ");
+        newArray[i] = Convert.ToInt32(Console.ReadLine());
+    }
+    Console.WriteLine();
+    return newArray;
 }
 
-Console.Write("Задайте массив: ");
-int massiv = Convert.ToInt32(Console.ReadLine());
+void ShowArray(int[] array)
+{
+    for(int i = 0; i < array.Length; i++)
+        Console.Write(array[i] + " ");
 
-Console.WriteLine("[" + massiv + "]");
+    Console.WriteLine();
+}
+
+Console.Write("Введите размер массива: ");
+int size = Convert.ToInt32(Console.ReadLine());
+
+int[] array = CreateArray(size);
+ShowArray(array);
