@@ -1,6 +1,6 @@
 ﻿//Задача 54: Задайте двумерный массив. Напишите программу, которая упорядочит по убыванию 
 //элементы каждой строки двумерного массива.
-
+/*
 int[,] CreateRandom2dArray(int rows, int columns, int minValue, int maxValue)
 {
     int[,] newArray = new int[rows, columns];
@@ -60,7 +60,7 @@ Show2dArray(myArray);
 
 int[,] newArray = Change(myArray);
 Console.WriteLine();
-Show2dArray(newArray);
+Show2dArray(newArray);*/
 
 //Задача 56: Задайте прямоугольный двумерный массив. Напишите программу, которая будет находить 
 //строку с наименьшей суммой элементов.
@@ -71,7 +71,7 @@ Show2dArray(newArray);
 //5 2 6 7
 //Программа считает сумму элементов в каждой строке и выдаёт номер строки с 
 //наименьшей суммой элементов: 1 строка
-
+/*
 int[,] CreateRandom2dArray(int rows, int columns, int minValue, int maxValue)
 {
     int[,] newArray = new int[rows, columns];
@@ -131,7 +131,7 @@ int[,] myArray = CreateRandom2dArray(m, n, min, max);
 Show2dArray(myArray);
 
 int rowssum = SumOfRows(myArray);
-Console.WriteLine($"Cтрокa с наименьшей суммой элементов: {rowssum}");
+Console.WriteLine($"Cтрокa с наименьшей суммой элементов: {rowssum}");*/
 
 //Задача 62. Заполните спирально массив 4 на 4.
 //Например, на выходе получается вот такой массив:
@@ -152,4 +152,18 @@ void Show2dArray(int[,] array)
 
 }
 
+int[,] SpiralArray(int m, int n)
+{
+   
+    
+}
 
+
+Console.Write("Введите количество строк: ");
+int m = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите количество столбцов: ");
+int n = Convert.ToInt32(Console.ReadLine());
+
+int[,] array = SpiralArray(m, n);
+
+Show2dArray(array);
